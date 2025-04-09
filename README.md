@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ranjanjeff" target="blank"><img src="https://img.shields.io/twitter/follow/@ranjanjeff?logo=twitter&style=for-the-badge" alt="@ranjanjeff" /></a> </p>
 
-- 🔭 I’m currently working on An E-Commerce Website (https://github.com/Jeffranjan/My-Personal-Website(https://my-portfolio-vert-iota-59.vercel.app)
+- 🔭 I’m currently working on An E-Commerce Website(https://github.com/Jeffranjan/My-Personal-Website(https://my-portfolio-vert-iota-59.vercel.app)
 
 - 🌱 I’m currently learning **JavaSript**
 
