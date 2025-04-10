@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS & Databases**
 
-- 👯 I’m looking to collaborate on **Blog Website**
+- 👯 I’m looking to collaborate on **Complex Web based projects**
 
 - 🤝 I’m looking for help with **Projects**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://ranjangupta.hashnode.dev/](https://ranjangupta.hashnode.dev/)
 
-- 💬 Ask me about **Web-Dev**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **Ranjanguptajeff@gmail.com**
 
