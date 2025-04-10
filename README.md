@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jeffranjan](https://github.com/Jeffranjan)
+- 👨‍💻 All of my projects are available at [https://github.com/Jeffranjan](https://github.com/Jeffranjan?tab=repositories)
 
 - 📝 I regularly write articles on [https://ranjangupta.hashnode.dev/](https://ranjangupta.hashnode.dev/)
 
