@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [An E-Commerce Website](https://my-portfolio-vert-iota-59.vercel.app)
 
-- 🌱 I’m currently learning **NextJS & Databased**
+- 🌱 I’m currently learning **NextJS & Databases**
 
 - 👯 I’m looking to collaborate on **Blog Website**
 
