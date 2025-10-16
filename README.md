@@ -2,7 +2,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://my-portfolio-vert-iota-59.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Jeffranjan</h1>
-<h3 align="center">Full-Stack Developer | MERN Enthusiast | Designer at Heart</h3>
+<h3 align="center">Full-Stack Developer | Tech Enthusiast | Designer at Heart</h3>
 
 <!-- Animated GIF -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
